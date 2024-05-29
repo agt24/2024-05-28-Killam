@@ -4,5 +4,5 @@
 * Apply for a job on our team: https://github.com/nimh-dsst/dataSci_job_ad_2024
 * Book time to chat with Adam: https://outlook.office365.com/book/OpenScienceDiscussionMcGill@nih.onmicrosoft.com/
 * Info for Adam's Open Science Office Hours on Tues Jun 13th: https://www.mcgill.ca/neuro/channels/event/open-science-office-hours-how-open-my-science-357449
-
+* Reach out to Adam: adamt at nih dot gov (or via another channel or platform https://linktr.ee/adamgthomas)
 
